@@ -1,8 +1,8 @@
-first_variable=4
-second_Variable=6
-third_variable = 8
+First_variable=4
+Second_Variable=6
+Third_variable = 8
 
-total = (first_variable +
-           second_Variable -
-         third_variable)
+total = (First_variable +
+         Second_Variable -
+         Third_variable)
 print(total)
